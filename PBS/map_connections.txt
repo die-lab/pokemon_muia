@@ -38,22 +38,34 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Piazza Marconi (42) - Via Dante Alighieri (32)
-42,North,0,32,South,0
-# Circolo della Vela_2 (79) - Via Dante Alighieri (32)
-79,West,0,32,East,61
+# Piazza Marconi (42) - Mandracchio (76)
+42,South,0,76,North,0
+# Circolo della Vela_2 (79) - Mandracchio (76)
+79,West,0,76,East,20
+# Mandracchio_2 (43) - Mandracchio (76)
+43,North,0,76,South,13
+# Solo_Molo (48) - Mandracchio (76)
+48,North,7,76,South,0
+# Caliterna (81) - Mandracchio (76)
+81,East,0,76,West,0
+# Via Dante Alighieri (32) - Piazza Marconi (42)
+32,South,0,42,North,0
 # Circolo della Vela_2 (79) - Piazza Marconi (42)
 79,West,0,42,East,46
-# Mandracchio (76) - Piazza Marconi (42)
-76,North,0,42,South,0
+# Caliterna (81) - Piazza Marconi (42)
+81,North,80,42,South,0
+# Circolo della Vela_2 (79) - Via Dante Alighieri (32)
+79,West,0,32,East,61
+# Caliterna (81) - Via Dante Alighieri (32)
+81,East,0,32,West,41
 # Molo dei Bersaglieri (22) - Circolo della Vela_2 (79)
 22,North,45,79,South,0
 # Circolo della Vela (77) - Circolo della Vela_2 (79)
 77,East,0,79,West,20
 # Mandracchio_2 (43) - Circolo della Vela_2 (79)
 43,East,0,79,West,0
-# Mandracchio (76) - Circolo della Vela_2 (79)
-76,East,20,79,West,0
+# Caliterna (81) - Circolo della Vela_2 (79)
+81,South,138,79,North,0
 # Circolo della Vela (77) - Molo dei Bersaglieri (22)
 77,South,0,22,North,0
 # Solo_Molo (48) - Molo dei Bersaglieri (22)
@@ -64,11 +76,11 @@
 43,South,0,77,North,0
 # Solo_Molo (48) - Circolo della Vela (77)
 48,East,20,77,West,0
-# Mandracchio (76) - Mandracchio_2 (43)
-76,South,13,43,North,0
 # Solo_Molo (48) - Mandracchio_2 (43)
 48,East,0,43,West,0
-# Solo_Molo (48) - Mandracchio (76)
-48,North,7,76,South,0
+# Caliterna (81) - Mandracchio_2 (43)
+81,South,93,43,North,0
 # Punta Molo C.Colombo (78) - Solo_Molo (48)
 78,North,0,48,South,0
+# Caliterna (81) - Solo_Molo (48)
+81,South,73,48,North,0

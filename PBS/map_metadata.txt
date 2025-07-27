@@ -448,3 +448,9 @@ Bicycle = true
 [080]   # Bar de Zuppo
 Name = Bar de Zuppo
 ShowArea = true
+#-------------------------------
+[081]   # Caliterna
+Name = Caliterna
+Outdoor = true
+ShowArea = true
+Bicycle = true
