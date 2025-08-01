@@ -454,3 +454,9 @@ Name = Caliterna
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[082]   # Caliterna (P)
+Name = Caliterna (P)
+Outdoor = true
+ShowArea = true
+Bicycle = true
