@@ -460,3 +460,21 @@ Name = Caliterna (P)
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[083]   # Vecchio Squero
+Name = Vecchio Squero
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[084]   # Via Dante Alighieri (Volto)
+Name = Via Dante Alighieri (Volto)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[085]   # Piazza Della Repubblica
+Name = Piazza della Repubblica
+Outdoor = true
+ShowArea = true
+Bicycle = true

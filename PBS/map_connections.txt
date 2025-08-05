@@ -38,28 +38,18 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Via Dante Alighieri (32) - Via Dante Alighieri (Volto) (84)
-32,West,0,84,East,0
-# Piazza Marconi (42) - Via Dante Alighieri (Volto) (84)
-42,West,0,84,East,15
-# Mandracchio (76) - Via Dante Alighieri (Volto) (84)
-76,West,0,84,East,41
-# Caliterna (P) (82) - Via Dante Alighieri (Volto) (84)
-82,North,59,84,South,0
-# Vecchio Squero (83) - Via Dante Alighieri (Volto) (84)
-83,North,0,84,South,0
-# Piazza Della Repubblica (85) - Via Dante Alighieri (Volto) (84)
-85,East,15,84,West,0
-# Piazza Marconi (42) - Via Dante Alighieri (32)
-42,North,0,32,South,0
-# Circolo della Vela_2 (79) - Via Dante Alighieri (32)
-79,West,0,32,East,61
-# Caliterna (81) - Via Dante Alighieri (32)
-81,East,0,32,West,41
-# Caliterna (P) (82) - Via Dante Alighieri (32)
-82,North,80,32,South,0
-# Vecchio Squero (83) - Via Dante Alighieri (32)
-83,North,21,32,South,0
+# Piazza Marconi (42) - Piazza Della Repubblica (85)
+42,North,0,85,South,71
+# Via Dante Alighieri (Volto) (84) - Piazza Della Repubblica (85)
+84,West,0,85,East,15
+# Caliterna (P) (82) - Piazza Della Repubblica (85)
+82,North,9,85,South,0
+# Vecchio Squero (83) - Piazza Della Repubblica (85)
+83,West,0,85,East,30
+# Via Dante Alighieri (32) - Piazza Marconi (42)
+32,South,0,42,North,0
+# Via Dante Alighieri (Volto) (84) - Piazza Marconi (42)
+84,East,15,42,West,0
 # Mandracchio (76) - Piazza Marconi (42)
 76,North,0,42,South,0
 # Circolo della Vela_2 (79) - Piazza Marconi (42)
@@ -68,8 +58,22 @@
 81,North,80,42,South,0
 # Vecchio Squero (83) - Piazza Marconi (42)
 83,East,0,42,West,0
-# Piazza Della Repubblica (85) - Piazza Marconi (42)
-85,South,71,42,North,0
+# Via Dante Alighieri (Volto) (84) - Via Dante Alighieri (32)
+84,East,0,32,West,0
+# Circolo della Vela_2 (79) - Via Dante Alighieri (32)
+79,West,0,32,East,61
+# Caliterna (81) - Via Dante Alighieri (32)
+81,East,0,32,West,41
+# Caliterna (P) (82) - Via Dante Alighieri (32)
+82,North,80,32,South,0
+# Vecchio Squero (83) - Via Dante Alighieri (32)
+83,North,21,32,South,0
+# Mandracchio (76) - Via Dante Alighieri (Volto) (84)
+76,West,0,84,East,41
+# Caliterna (P) (82) - Via Dante Alighieri (Volto) (84)
+82,North,59,84,South,0
+# Vecchio Squero (83) - Via Dante Alighieri (Volto) (84)
+83,North,0,84,South,0
 # Mandracchio_2 (43) - Mandracchio (76)
 43,North,0,76,South,13
 # Circolo della Vela_2 (79) - Mandracchio (76)
@@ -114,7 +118,3 @@
 83,South,0,81,North,59
 # Vecchio Squero (83) - Caliterna (P) (82)
 83,West,0,82,East,0
-# Piazza Della Repubblica (85) - Caliterna (P) (82)
-85,South,0,82,North,9
-# Piazza Della Repubblica (85) - Vecchio Squero (83)
-85,East,30,83,West,0
