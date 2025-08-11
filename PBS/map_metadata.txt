@@ -478,3 +478,15 @@ Name = Piazza della Repubblica
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[086]   # Via Roma
+Name = Via Roma
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[087]   # Cul de Nave
+Name = Cul de Nave
+Outdoor = true
+ShowArea = true
+Bicycle = true

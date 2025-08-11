@@ -46,6 +46,10 @@
 82,North,9,85,South,0
 # Vecchio Squero (83) - Piazza Della Repubblica (85)
 83,West,0,85,East,30
+# Via Roma (86) - Piazza Della Repubblica (85)
+86,South,0,85,North,0
+# Cul de Nave (87) - Piazza Della Repubblica (85)
+87,West,5,85,East,0
 # Via Dante Alighieri (32) - Piazza Marconi (42)
 32,South,0,42,North,0
 # Via Dante Alighieri (Volto) (84) - Piazza Marconi (42)
@@ -68,12 +72,18 @@
 82,North,80,32,South,0
 # Vecchio Squero (83) - Via Dante Alighieri (32)
 83,North,21,32,South,0
+# Cul de Nave (87) - Via Dante Alighieri (32)
+87,South,21,32,North,0
 # Mandracchio (76) - Via Dante Alighieri (Volto) (84)
 76,West,0,84,East,41
 # Caliterna (P) (82) - Via Dante Alighieri (Volto) (84)
 82,North,59,84,South,0
 # Vecchio Squero (83) - Via Dante Alighieri (Volto) (84)
 83,North,0,84,South,0
+# Via Roma (86) - Via Dante Alighieri (Volto) (84)
+86,East,30,84,West,0
+# Cul de Nave (87) - Via Dante Alighieri (Volto) (84)
+87,South,0,84,North,0
 # Mandracchio_2 (43) - Mandracchio (76)
 43,North,0,76,South,13
 # Circolo della Vela_2 (79) - Mandracchio (76)
@@ -118,3 +128,9 @@
 83,South,0,81,North,59
 # Vecchio Squero (83) - Caliterna (P) (82)
 83,West,0,82,East,0
+# Cul de Nave (87) - Caliterna (P) (82)
+87,West,35,82,East,0
+# Via Roma (86) - Vecchio Squero (83)
+86,East,45,83,West,0
+# Cul de Nave (87) - Via Roma (86)
+87,West,0,86,East,10
