@@ -38,22 +38,24 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# Piazza Della Repubblica (85) - Coppa Rotatoria (88)
+85,North,0,88,South,10
+# Via Roma (86) - Coppa Rotatoria (88)
+86,West,0,88,East,5
 # Piazza Marconi (42) - Piazza Della Repubblica (85)
 42,North,0,85,South,71
-# Via Dante Alighieri (Volto) (84) - Piazza Della Repubblica (85)
-84,West,0,85,East,15
+# Cul de Nave (87) - Piazza Della Repubblica (85)
+87,West,5,85,East,0
 # Caliterna (P) (82) - Piazza Della Repubblica (85)
 82,North,9,85,South,0
 # Vecchio Squero (83) - Piazza Della Repubblica (85)
 83,West,0,85,East,30
+# Via Dante Alighieri (Volto) (84) - Piazza Della Repubblica (85)
+84,West,0,85,East,15
 # Via Roma (86) - Piazza Della Repubblica (85)
-86,South,0,85,North,0
-# Cul de Nave (87) - Piazza Della Repubblica (85)
-87,West,5,85,East,0
+86,South,0,85,North,10
 # Via Dante Alighieri (32) - Piazza Marconi (42)
 32,South,0,42,North,0
-# Via Dante Alighieri (Volto) (84) - Piazza Marconi (42)
-84,East,15,42,West,0
 # Mandracchio (76) - Piazza Marconi (42)
 76,North,0,42,South,0
 # Circolo della Vela_2 (79) - Piazza Marconi (42)
@@ -62,28 +64,38 @@
 81,North,80,42,South,0
 # Vecchio Squero (83) - Piazza Marconi (42)
 83,East,0,42,West,0
-# Via Dante Alighieri (Volto) (84) - Via Dante Alighieri (32)
-84,East,0,32,West,0
+# Via Dante Alighieri (Volto) (84) - Piazza Marconi (42)
+84,East,15,42,West,0
+# Cul de Nave (87) - Via Dante Alighieri (32)
+87,South,21,32,North,0
+# Caliterna (P) (82) - Via Dante Alighieri (32)
+82,North,80,32,South,0
 # Circolo della Vela_2 (79) - Via Dante Alighieri (32)
 79,West,0,32,East,61
 # Caliterna (81) - Via Dante Alighieri (32)
 81,East,0,32,West,41
-# Caliterna (P) (82) - Via Dante Alighieri (32)
-82,North,80,32,South,0
 # Vecchio Squero (83) - Via Dante Alighieri (32)
 83,North,21,32,South,0
-# Cul de Nave (87) - Via Dante Alighieri (32)
-87,South,21,32,North,0
-# Mandracchio (76) - Via Dante Alighieri (Volto) (84)
-76,West,0,84,East,41
-# Caliterna (P) (82) - Via Dante Alighieri (Volto) (84)
-82,North,59,84,South,0
-# Vecchio Squero (83) - Via Dante Alighieri (Volto) (84)
-83,North,0,84,South,0
-# Via Roma (86) - Via Dante Alighieri (Volto) (84)
-86,East,30,84,West,0
-# Cul de Nave (87) - Via Dante Alighieri (Volto) (84)
-87,South,0,84,North,0
+# Via Dante Alighieri (Volto) (84) - Via Dante Alighieri (32)
+84,East,0,32,West,0
+# Calli:? Bernardis / ? Parini (89) - Via Dante Alighieri (32)
+89,South,1,32,North,0
+# Caliterna (P) (82) - Cul de Nave (87)
+82,East,0,87,West,35
+# Via Dante Alighieri (Volto) (84) - Cul de Nave (87)
+84,North,0,87,South,0
+# Via Roma (86) - Cul de Nave (87)
+86,East,10,87,West,0
+# Calli:? Bernardis / ? Parini (89) - Cul de Nave (87)
+89,West,0,87,East,0
+# Mandracchio (76) - Caliterna (P) (82)
+76,North,0,82,South,80
+# Caliterna (81) - Caliterna (P) (82)
+81,North,0,82,South,0
+# Vecchio Squero (83) - Caliterna (P) (82)
+83,West,0,82,East,0
+# Via Dante Alighieri (Volto) (84) - Caliterna (P) (82)
+84,West,15,82,East,0
 # Mandracchio_2 (43) - Mandracchio (76)
 43,North,0,76,South,13
 # Circolo della Vela_2 (79) - Mandracchio (76)
@@ -92,10 +104,10 @@
 48,North,7,76,South,0
 # Caliterna (81) - Mandracchio (76)
 81,East,0,76,West,0
-# Caliterna (P) (82) - Mandracchio (76)
-82,South,80,76,North,0
 # Vecchio Squero (83) - Mandracchio (76)
 83,East,26,76,West,0
+# Via Dante Alighieri (Volto) (84) - Mandracchio (76)
+84,East,41,76,West,0
 # Circolo della Vela_2 (79) - Mandracchio_2 (43)
 79,West,0,43,East,0
 # Circolo della Vela (77) - Mandracchio_2 (43)
@@ -122,15 +134,13 @@
 78,North,0,48,South,0
 # Caliterna (81) - Solo_Molo (48)
 81,South,73,48,North,0
-# Caliterna (P) (82) - Caliterna (81)
-82,South,0,81,North,0
 # Vecchio Squero (83) - Caliterna (81)
 83,South,0,81,North,59
-# Vecchio Squero (83) - Caliterna (P) (82)
-83,West,0,82,East,0
-# Cul de Nave (87) - Caliterna (P) (82)
-87,West,35,82,East,0
+# Via Dante Alighieri (Volto) (84) - Vecchio Squero (83)
+84,South,0,83,North,0
 # Via Roma (86) - Vecchio Squero (83)
 86,East,45,83,West,0
-# Cul de Nave (87) - Via Roma (86)
-87,West,0,86,East,10
+# Via Roma (86) - Via Dante Alighieri (Volto) (84)
+86,East,30,84,West,0
+# Calli:? Bernardis / ? Parini (89) - Via Dante Alighieri (Volto) (84)
+89,South,0,84,North,20

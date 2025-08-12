@@ -490,3 +490,15 @@ Name = Cul de Nave
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[088]   # Coppa Rotatoria
+Name = Coppa Rotatoria
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[089]   # Calli:? Bernardis / ? Parini
+Name = Calli: Bernardis / Parini
+Outdoor = true
+ShowArea = true
+Bicycle = true
