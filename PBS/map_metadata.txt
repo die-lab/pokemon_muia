@@ -497,8 +497,20 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
-[089]   # Calli:? Bernardis / ? Parini
+[089]   # Calli: Bernardis / Parini
 Name = Calli: Bernardis / Parini
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[090]   # Calle Parini (Bassa)
+Name = Calle Parini (Bassa)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[091]   # Calle Parini (Alta)
+Name = Calle Parini (Alta)
 Outdoor = true
 ShowArea = true
 Bicycle = true
