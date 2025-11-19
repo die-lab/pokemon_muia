@@ -6563,3 +6563,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A faded sea chart that shows the way to a certain island.
+#-------------------------------
+[RUNNINGSHOES]
+Name = Scarpe da Corsa
+NamePlural = Scarpe da Corsa
+Pocket = 8
+Price = 0
+Description = Scarpe speciali che permettono di correre tenendo premuto B.
+Flags = KeyItem
