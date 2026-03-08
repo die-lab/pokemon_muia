@@ -11,5 +11,14 @@ Ogni volta che te vol far modifiche, prima de iniziar a farle te ga de andar sul
 Quando te le ga finide inveze te ga 1. de far ctrl+s sul zogo, ma questo za te sa. 2. de tornar sull'app de github, riempir el campo "Summary(required)" 3. far "commit to main" e 4. premer "push origin". E XE FATTA!
 
 
+# AGGIORNAMENTI
+Dovemo ricordarse de aggiornar questo file con le robe che femo sul giogo (nove mappe, novi personaggi).
+In piu, dovemo metterse nella sezion sotto, delle idee, quel che pensavimo de far.
+
+
+# IDEE
+02032026 La centrale elettrica de Grignan con Zapdos dentro.ù
+
+
 
 
