@@ -521,7 +521,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
-[093]   # Salita delle Mura/ Via della Torre
+[093]   # Salita delle Mura / Via della Torre
 Name = Salita delle Mura / Via della Torre
 Outdoor = true
 ShowArea = true
@@ -529,6 +529,12 @@ Bicycle = true
 #-------------------------------
 [094]   # Ricreatorio F. Penso
 Name = Ricreatorio F. Penso
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[095]   # Via G. Mazzini / Parco giochi
+Name = Via G. Mazzini / Parco Giochi
 Outdoor = true
 ShowArea = true
 Bicycle = true
