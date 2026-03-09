@@ -9,10 +9,10 @@ module VMS
 
   # External server connection settings (used when "Online Play" is selected)
   EXTERNALHOST = "100.106.32.71"
-  EXTERNALPORT = 9999
+  EXTERNALPORT = 25565
 
   # Default port for hosting, integrated server is always hosted on 0.0.0.0:PORT.
-  PORT = 9999
+  PORT = 25565
 
   # The current target IP for connecting. Can be changed at runtime.
   class << self
@@ -42,7 +42,7 @@ module VMS
   # This is the delay where packet recency bias will be offset. Meaning if HANDLE_MORE_PACKETS is false, you will receive the latest packet that was sent within this delay. (in seconds)
   ADDED_DELAY = 0.09
   # The timeout in seconds. If the server does not respond within this time, the client will disconnect.
-  TIMEOUT_SECONDS = 30
+  TIMEOUT_SECONDS = 120
   # Whether or not to sync the seed with the server. This means that all players will have the same random numbers.
   HEARTBEAT_TIMEOUT = 30
   SEED_SYNC = false
