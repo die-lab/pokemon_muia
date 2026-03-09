@@ -10,7 +10,7 @@ module VMS
   # External server connection settings (used when "Online Play" is selected)
   #EXTERNALHOST = "100.106.32.71"
   
-  EXTERNALHOST = "functions-explorer.gl.at.ply.gg:19457"
+  EXTERNALHOST = "127.0.0.1"
   EXTERNALPORT = 25565
 
   # Default port for hosting, integrated server is always hosted on 0.0.0.0:PORT.
