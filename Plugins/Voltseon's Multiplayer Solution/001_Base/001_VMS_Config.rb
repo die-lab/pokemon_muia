@@ -44,7 +44,7 @@ module VMS
   # The timeout in seconds. If the server does not respond within this time, the client will disconnect.
   TIMEOUT_SECONDS = 120
   # Whether or not to sync the seed with the server. This means that all players will have the same random numbers.
-  HEARTBEAT_TIMEOUT = 30
+  HEARTBEAT_TIMEOUT = 120
   SEED_SYNC = false
   
   # ===========
