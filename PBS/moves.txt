@@ -5163,7 +5163,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = The target is gripped and squeezed from both sides to inflict damage.
 #-------------------------------
 [CUT]
-Name = Cut
+Name = Tajo
 Type = NORMAL
 Category = Physical
 Power = 50
