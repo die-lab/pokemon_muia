@@ -8,13 +8,13 @@ module VMS
   USE_EXTERNAL_SERVER = true
 
   # External server connection settings (used when "Online Play" is selected)
-  EXTERNALHOST = "piholeone.tail353450.ts.net"
+  EXTERNALHOST = "functions-explorer.gl.at.ply.gg"
   
   #EXTERNALHOST = "127.0.0.1"
-  EXTERNALPORT = 25565
+  EXTERNALPORT = 19457
 
   # Default port for hosting, integrated server is always hosted on 0.0.0.0:PORT.
-  PORT = 25565
+  PORT = 19457
 
   # The current target IP for connecting. Can be changed at runtime.
   class << self
