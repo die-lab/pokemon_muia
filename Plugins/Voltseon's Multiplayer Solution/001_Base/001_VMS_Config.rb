@@ -8,7 +8,7 @@ module VMS
   USE_EXTERNAL_SERVER = true
 
   # External server connection settings (used when "Online Play" is selected)
-  EXTERNALHOST = "100.106.32.71"
+  EXTERNALHOST = "piholeone.tail353450.ts.net"
   
   #EXTERNALHOST = "127.0.0.1"
   EXTERNALPORT = 25565
