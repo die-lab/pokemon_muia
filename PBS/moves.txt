@@ -2191,7 +2191,7 @@ EffectChance = 100
 Description = A forza di colpire il bersaglio, i pugni di chi la usa si induriscono, aumentandone l'Attacco.
 #-------------------------------
 [ROCKSMASH]
-Name = Spaccaroccia
+Name = Spaccascoi
 Type = FIGHTING
 Category = Physical
 Power = 40
@@ -2913,7 +2913,7 @@ Flags = CanProtect,Bomb
 Description = Chi la usa scalda il becco prima di attaccare. Chi lo colpisce in questa fase subisce una scottatura.
 #-------------------------------
 [FLY]
-Name = Volo
+Name = Svolo
 Type = FLYING
 Category = Physical
 Power = 90
@@ -3096,7 +3096,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Colpisce il nemico con il becco o il corno.
 #-------------------------------
 [DEFOG]
-Name = Scacciabruna
+Name = Scazzacaligo
 Type = FLYING
 Category = Status
 Accuracy = 0
@@ -4816,7 +4816,7 @@ Flags = CanProtect,CanMirrorMove,Dance
 Description = Chi la usa danza con foga contro il bersaglio. Il tipo della mossa dipende dal tipo di chi la usa.
 #-------------------------------
 [ROCKCLIMB]
-Name = Scalaroccia
+Name = Rampigar
 Type = NORMAL
 Category = Physical
 Power = 90
@@ -4928,7 +4928,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa colpisce il bersaglio con la lunga coda, con le liane o simili.
 #-------------------------------
 [STRENGTH]
-Name = Forza
+Name = Sburton
 Type = NORMAL
 Category = Physical
 Power = 80
@@ -5163,7 +5163,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Il bersaglio viene afferrato e stretto da due pinze che gli infliggono danni.
 #-------------------------------
 [CUT]
-Name = Taglio
+Name = Tajo
 Type = NORMAL
 Category = Physical
 Power = 50
@@ -5905,7 +5905,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa danza spingendo il bersaglio a imitarlo, finché l'abilità di quest'ultimo non diventa uguale alla sua.
 #-------------------------------
 [FLASH]
-Name = Flash
+Name = Flashada
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -8388,7 +8388,7 @@ EffectChance = 100
 Description = Chi la usa emette bolle cantando. Il tocco delle bolle cura le scottature di chiunque colpisca.
 #-------------------------------
 [SURF]
-Name = Surf
+Name = Onda Granda
 Type = WATER
 Category = Special
 Power = 90
@@ -8425,7 +8425,7 @@ EffectChance = 20
 Description = Chi la usa colpisce il bersaglio con una potente ondata. Può ridurne la Difesa.
 #-------------------------------
 [DIVE]
-Name = Sub
+Name = Dorada
 Type = WATER
 Category = Physical
 Power = 80
@@ -8613,7 +8613,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Il bersaglio viene stretto e schiacciato in una morsa per un numero di turni tra quattro e cinque.
 #-------------------------------
 [WHIRLPOOL]
-Name = Mulinello
+Name = Mulinel
 Type = WATER
 Category = Special
 Power = 35
