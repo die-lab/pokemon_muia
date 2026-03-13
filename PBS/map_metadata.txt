@@ -102,6 +102,12 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]   # Molo dei Bersaglieri
+Name = Molo dei Bersaglieri
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
 Outdoor = true
@@ -535,6 +541,12 @@ Bicycle = true
 #-------------------------------
 [095]   # Via G. Mazzini / Parco giochi
 Name = Via G. Mazzini / Parco Giochi
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[096]   # Giardinetti D'Europa
+Name = Giardini Europa
 Outdoor = true
 ShowArea = true
 Bicycle = true
