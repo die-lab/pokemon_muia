@@ -40,14 +40,16 @@
 69,North,0,66,South,10
 # Coppa Rotatoria (88) - Via Gabriele D'Annunzio (97)
 88,North,106,97,South,0
+# Circolo della Vela_2 (79) - Via Gabriele D'Annunzio (97)
+79,West,0,97,East,141
 # Salita delle Mura / Via della Torre (93) - Via Gabriele D'Annunzio (97)
 93,North,0,97,South,9
 # Via Roma_2 (92) - Via Gabriele D'Annunzio (97)
 92,North,46,97,South,0
 # Giardinetti D'Europa (96) - Via Gabriele D'Annunzio (97)
-96,East,0,97,West,0
+96,East,0,97,West,15
 # Via S. Giovanni (98) - Via Gabriele D'Annunzio (97)
-98,South,46,97,North,0
+98,East,0,97,West,0
 # Piazza Della Repubblica (85) - Coppa Rotatoria (88)
 85,North,0,88,South,10
 # Ricreatorio F. Penso (94) - Coppa Rotatoria (88)
