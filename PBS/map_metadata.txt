@@ -550,3 +550,15 @@ Name = Giardini Europa
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[097]   # Via Gabriele D'Annunzio
+Name = Via Gabriele D'Annunzio
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[098]   # Via S. Giovanni
+Name = Via S. Giovanni
+Outdoor = true
+ShowArea = true
+Bicycle = true
