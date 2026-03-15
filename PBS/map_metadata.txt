@@ -540,7 +540,7 @@ ShowArea = true
 Bicycle = true
 #-------------------------------
 [095]   # Via G. Mazzini / Parco giochi
-Name = Via G. Mazzini / Parco Giochi
+Name = Via G. Mazzini
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -558,6 +558,12 @@ ShowArea = true
 Bicycle = true
 #-------------------------------
 [098]   # Via S. Giovanni
+Name = Via S. Giovanni
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[099]   # Via S. Giovanni_2
 Name = Via S. Giovanni
 Outdoor = true
 ShowArea = true
