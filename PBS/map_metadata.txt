@@ -568,3 +568,27 @@ Name = Via S. Giovanni
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[100]   # Via Singolo
+Name = Via Singolo
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[101]   # Via S. Giovanni_3
+Name = Via S. Giovanni
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[102]   # Piazzale Foschiatti
+Name = Piazzale Foschiatti
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[103]   # Piazzale Curriel
+Name = Piazzale Curriel
+Outdoor = true
+ShowArea = true
+Bicycle = true
