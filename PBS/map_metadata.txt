@@ -592,3 +592,15 @@ Name = Piazzale Curriel
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[104]   # Via Mazzarei
+Name = Via Mazzarei
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[105]   # Via Mazzarei_2
+Name = Via Mazzarei
+Outdoor = true
+ShowArea = true
+Bicycle = true
