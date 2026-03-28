@@ -622,3 +622,9 @@ Name = Via Bembo
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[109]   # Via Borgolauro
+Name = Via Borgolauro
+Outdoor = true
+ShowArea = true
+Bicycle = true
