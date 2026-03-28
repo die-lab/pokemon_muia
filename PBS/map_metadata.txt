@@ -604,3 +604,21 @@ Name = Via Mazzarei
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[106]   # Viale XXV Aprile_1
+Name = Viale XXV Aprile
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[107]   # Via S. Giovanni_4
+Name = Via S. Giovanni
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[108]   # Via Bembo
+Name = Via Bembo
+Outdoor = true
+ShowArea = true
+Bicycle = true
