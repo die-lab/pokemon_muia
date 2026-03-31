@@ -628,3 +628,9 @@ Name = Via Borgolauro
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[110]   # Via Gabriele D'annunzio
+Name = Via Gabriele D'Annunzio
+Outdoor = true
+ShowArea = true
+Bicycle = true
